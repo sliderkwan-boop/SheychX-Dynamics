@@ -33,9 +33,9 @@ Everything you see—the technical designs, the architecture, and the intellectu
 
 Lead Architect: Scheych Mansur Burajev
 
-The Team: 3 Core Developers pushing the limits.
-
-Consult: Shout out to Serozno (B.) for the game design input.
+The Team: 1 Core Developer pushing the limits. (SheychX)
+Consult: 1 Shout out to Serozno (B.) for the game design input.
+Debugger: 2
 
 📬 GET IN TOUCH
 For technical inquiries or deeper insights into the Sheychx-Dynamics Framework, reach out directly:
