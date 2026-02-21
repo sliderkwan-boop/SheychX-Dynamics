@@ -1,5 +1,5 @@
 🌌 Sheychx-Dynamics | Project: "The Last Signal"
-Vertical Slice V.2.1.0 is officially Live. We’ve hit our major milestone. THL is no longer just a prototype—it’s the production-ready backbone for our upcoming title.
+V.2.2.0 is officially Live. We’ve hit our major milestone. THL is no longer just a prototype—it’s the production-ready backbone for our upcoming title.
 
 Lead Architect: Scheych Mansur Burajev
 
@@ -42,6 +42,6 @@ For technical inquiries or deeper insights into the Sheychx-Dynamics Framework, 
 
 Contact: scheychkid@gmail.com
 
-Status: V2.1.0-STABLE | Ready for Staged Build.
+Status: V2.2.0-STABLE | Ready for Staged Build.
 
 
